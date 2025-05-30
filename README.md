@@ -1,2 +1,2 @@
-# weather_analysis
-a little code that can shou future weather analysis(一个非常简单的未来三天天气预报程序）
+# age recognition
+一个简单的小程序，可以使用户上传一个图片，然后识别用户的年龄。

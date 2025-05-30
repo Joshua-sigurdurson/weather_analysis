@@ -1,0 +1,15 @@
+#需下载的模块
+1. face_recognition 模块
+   1. 打开命令行终端
+      Windows：按 Win + R，输入 cmd 并回车
+      macOS/Linux：打开终端应用程序
+   2. # Windows/macOS：
+      #安装依赖项：pip install cmake
+      #安装 dlib：pip install dlib
+      #安装 face_recognition：pip install face_recognition
+
+2.aip 模块（百度 AI 开放平台）
+  1. 打开命令行终端
+      Windows：按 Win + R，输入 cmd 并回车
+      macOS/Linux：打开终端应用程序
+  2. 输入：pip install baidu-aip
